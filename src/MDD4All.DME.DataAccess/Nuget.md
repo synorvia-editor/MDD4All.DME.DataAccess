@@ -9,3 +9,5 @@ object as its key is examined: those entries have no plain form in JSON, so what
 be lost is named rather than dropped in silence.
 
 Targets net9.0, because loading an assembly into a context of its own needs it.
+
+Its DynamicInvoker was originally written by Dr. Oliver Alt.
